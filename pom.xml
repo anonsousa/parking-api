@@ -52,7 +52,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
@@ -68,6 +67,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>Parking-API</finalName>
 	</build>
 
 </project>
